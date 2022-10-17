@@ -12,6 +12,8 @@
         <module>hello_spring</module>
         <module>spring_study_01</module>
         <module>spring_study_02</module>
+        <module>spring_study_03</module>
+        <module>spring_study_04</module>
     </modules>
 
     <properties>
