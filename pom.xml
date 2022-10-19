@@ -16,6 +16,7 @@
         <module>spring_study_04</module>
         <module>spring_study_05</module>
         <module>spring_study_06</module>
+        <module>spring_study_07</module>
     </modules>
 
     <properties>
